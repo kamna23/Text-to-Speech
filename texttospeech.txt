@@ -1,0 +1,6 @@
+# Convert text to speech using python
+# install pip gTTS(Google text to speech) module
+# An interface to Google Translate’s Text-to-Speech API
+text (string) – The text to be read
+lang (string, optional) – The language (IETF language tag) to read the text in. Default is en.
+slow (bool, optional) – Reads text more slowly. Defaults to False

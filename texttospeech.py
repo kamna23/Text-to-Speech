@@ -1,4 +1,4 @@
-# Conver text to speech using python
+# Convert text to speech using python
 # install pip gTTS(Google text to speech) module
 # An interface to Google Translate’s Text-to-Speech API
 
